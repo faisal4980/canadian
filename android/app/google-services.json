@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "184471429349",
+    "project_id": "canadian-cart",
+    "storage_bucket": "canadian-cart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184471429349:android:50245fdbbf75e3bf73b40c",
+        "android_client_info": {
+          "package_name": "com.grocery.mr_app_customers_business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184471429349-ghfrkq8om7d73ae3ege3bu2qhbq6h12g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grocery.mr_app_customers_business",
+            "certificate_hash": "d4440dae31b749fe889f8f72ab649ba2567c9d8d"
+          }
+        },
+        {
+          "client_id": "184471429349-8hhtkc5ab8hsfcv0a80nnsokefsg3lqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdYW3vOhUJkZ2klv7s1wy8lJ4rdVYe1T0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184471429349-8hhtkc5ab8hsfcv0a80nnsokefsg3lqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
